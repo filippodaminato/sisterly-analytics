@@ -69,7 +69,6 @@ prometheus-client==0.14.1
 prompt-toolkit==3.0.18
 protobuf==3.18.0
 ptyprocess==0.7.0
-PyAudio==0.2.11
 pycodestyle==2.8.0
 pycparser==2.21
 Pygments==2.9.0
